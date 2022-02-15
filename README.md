@@ -1,6 +1,6 @@
 # Portfolio
 ## About me
-I'm a graduate Quality Assurance at AGH University of Science and Technology. Over the previous year I was developed testing knowledge and technical skills. I'm a quality enthusiast, taking care of assigned tasks right away and don't like to put things off until later.
+I'm a graduate Quality Assurance at AGH University of Science and Technology. Since last year I have been expanding my knowledge of testing and technical skills. I haven't lost my motivation to learn and I would like to gain my experience. I'm a quality enthusiast who prefers to solve the assigned tasks right away and not postpone them until later.
 
 
 ## [Test Cases for Statistical Process Control](https://link-url-here.org) 
