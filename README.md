@@ -8,6 +8,7 @@ Since last year I have been expanding my knowledge of testing and technical skil
 ## [Library Simulator (in progress)](https://gitlab.com/MichnaSylwia/project-library-simulator)
 > *Maven project in Java programming language, which is used to manage the library.*
 ## [REST API tests (in progress)](https://link-url-here.org)
-> *API tests automation using Java and REST Assured*
+> *The project includes automated tests for the GET /api/Pesel endpoint, ensuring that the requirements for transmitting
+(EQ) and covering all error codes issued by the REST service*
 ## [Test automation (in progress)](https://link-url-here.org)
 > *Automation of test scenarios using Java, Selenium, TestNG based on Page Object Pattern*
