@@ -8,6 +8,6 @@ I'm a graduate Quality Assurance at AGH University of Science and Technology. Si
 ## [Library Simulator (in progress)](https://gitlab.com/MichnaSylwia/project-library-simulator)
 > *Maven project in Java programming language, which is used to operate the library.*
 ## [REST API tests(in progress)](https://link-url-here.org)
-> *API test automation using Java and REST Assured
+> *API test automation using Java and REST Assured*
 ## [Test automation (in progress)](https://link-url-here.org)
 > *Automation of test scenarios using Java, Selenium, TestNG based on Page Object Pattern*
