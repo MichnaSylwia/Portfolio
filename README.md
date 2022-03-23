@@ -8,6 +8,6 @@ Since last year I have been expanding my knowledge of testing and technical skil
 ## [Library Simulator (in progress)](https://github.com/MichnaSylwia/LibrarySimulator-github)
 > *Maven project in Java programming language, which is used to manage the library.*
 ## [REST API tests (in progress)](https://github.com/MichnaSylwia/rest-api-test-lab)
-> *The project includes automated sample tests and the GET /api/Pesel endpoint, ensuring that the requirements for transmitting
+> *The project includes automated sample tests and tests for GET /api/Pesel endpoint, ensuring that the requirements for transmitting
 (EQ) and covering all error codes issued by the REST service*
 
