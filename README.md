@@ -10,5 +10,4 @@ Since last year I have been expanding my knowledge of testing and technical skil
 ## [REST API tests (in progress)](https://github.com/MichnaSylwia/rest-api-test-lab)
 > *The project includes automated sample tests and the GET /api/Pesel endpoint, ensuring that the requirements for transmitting
 (EQ) and covering all error codes issued by the REST service*
-## [Test automation (in progress)](https://link-url-here.org)
-> *Automation of test scenarios using Java, Selenium, TestNG based on Page Object Pattern*
+
