@@ -9,5 +9,5 @@ Since last year I have been expanding my knowledge of testing and technical skil
 > *Maven project in Java programming language, which is used to manage the library*
 ## [REST API tests](https://github.com/MichnaSylwia/rest-api-test-lab)
 > *The project includes automated sample tests using Java and RestAssured*
-## [Cypress tests](https://github.com/MichnaSylwia/todo_list_cypress_tests)
+## [Cypress ui tests](https://github.com/MichnaSylwia/cypress-ui-testing-todo-list)
 > *Functional tests of the web application Todo List*
