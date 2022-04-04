@@ -9,5 +9,7 @@ Since last year I have been expanding my knowledge of testing and technical skil
 > *Maven project in Java programming language, which is used to manage the library*
 ## [REST API tests](https://github.com/MichnaSylwia/rest-api-test-lab)
 > *The project includes automated sample tests using Java and RestAssured*
+## [Java+Selenium+TestNG tests](https://github.com/MichnaSylwia/selenium-java-spc)
+> Sample tests for SPC web application using Java,Selenium and TestNG based on Page Object Pattern
 ## [Cypress UI tests](https://github.com/MichnaSylwia/cypress-ui-testing-todo-list)
 > *Functional tests of the web application Todo List*
