@@ -1,6 +1,6 @@
 # Portfolio
 ## About me
-Since last year I have been expanding my knowledge of testing and technical skills. I haven't lost my motivation to learn and I would like to gain experience. I'm a quality enthusiast who prefers to solve the assigned tasks right away and not postpone them until later.
+Since last year I have been expanding my knowledge of testing and technical skills. I haven't lost my motivation to learn and I would like to gain experience. Below are the projects I did as part of my study (currently expanding my knowledge of Java and Selenium). I'm also exploring the possibilities of Cypress.
 
 
 ## [Test Cases for Statistical Process Control](https://drive.google.com/file/d/1UuBd6j9zmAqWEOTCTnm7ZSJqYeanwAT4/view?usp=sharing) 
